@@ -1,4 +1,4 @@
-var raptorCache = require('raptor-cache');
+var raptorCache = require('@awly/raptor-cache');
 var nodePath = require('path');
 var LassoPageResult = require('./LassoPageResult');
 var DEFAULT_BASE_CACHE_DIR = nodePath.join(require('app-root-dir').get(), '.cache/lasso');
