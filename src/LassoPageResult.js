@@ -1,5 +1,5 @@
 var extend = require('raptor-util/extend');
-var marko = require('marko');
+var marko = require('@awly/marko');
 var nodePath = require('path');
 const LassoPrebuild = require('./LassoPrebuild');
 var EMPTY_OBJECT = {};
