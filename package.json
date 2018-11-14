@@ -21,7 +21,7 @@
   "maintainers": "Matej Šircelj <sircelj.m@gmail.com> (https://github.com/sirceljm/)",
   "contributors": "Patrick Steele-Idem <pnidem@gmail.com>",
   "dependencies": {
-    "@awly/marko": "^4.6.2",
+    "@awly/marko": "^4.13.9-alpha.0",
     "@awly/raptor-cache": "^2.0.6",
     "app-root-dir": "^1.0.2",
     "assert": "^1.4.1",
